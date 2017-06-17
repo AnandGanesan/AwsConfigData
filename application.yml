@@ -34,4 +34,4 @@ spring:
   profiles: aws
 words: I,You,He,She,It
       
-lucky-word: "Hello Anish"
+lucky-word: "Hello Krish & Anish"
