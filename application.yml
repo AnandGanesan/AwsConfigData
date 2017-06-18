@@ -43,7 +43,7 @@ eureka:
     enable-self-preservation: true
     wait-time-in-ms-when-sync-empty: 0
     bindingStrategy: route53
-    conte
+    
     route53-domain-t-t-l: 30
     a-w-s-access-id: AKIAJRL3OVIWQJ3TY5TA
     a-w-s-secret-key: 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
