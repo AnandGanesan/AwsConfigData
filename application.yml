@@ -4,9 +4,6 @@ lucky-word: "Hello Krish & Anish"
 spring:
   profiles:
     active: dev
----
-spring:
-  profiles: dev
 
 server:
   port: 8761
@@ -44,11 +41,4 @@ eureka:
     wait-time-in-ms-when-sync-empty: 0
     bindingStrategy: route53
     
-    route53-domain-t-t-l: 30
-    a-w-s-access-id: AKIAJRL3OVIWQJ3TY5TA
-    a-w-s-secret-key: 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
-        
-#    a-w-s-access-id: AKIAIC4RPKV33F24NR2A
-#    a-w-s-secret-key: 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
-#    list-auto-scaling-groups-role-name: config auto scale gp
     
